@@ -1,0 +1,182 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.namazreminder.test"
+4    android:versionCode="6"
+5    android:versionName="2.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:7:22-78
+13
+14    <application
+14-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:9:5-98:19
+15        android:allowBackup="true"
+15-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.0] C:\Users\arain\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:fullBackupContent="true"
+18-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:11:9-41
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/applicationName"
+20-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:13:9-48
+21        android:supportsRtl="true"
+21-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:14:9-35
+22        android:testOnly="true"
+23        android:theme="@style/MuezzinTheme" >
+23-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:15:9-44
+24        <activity
+24-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:18:9-26:20
+25            android:name="com.example.namazreminder.activities.PrayerTimesActivity"
+25-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:19:13-84
+26            android:launchMode="singleTop" >
+26-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:20:13-43
+27            <intent-filter>
+27-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:22:13-25:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:23:17-69
+28-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:23:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:24:17-77
+30-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:24:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:28:9-30:58
+34            android:name="com.example.namazreminder.activities.WelcomeActivity"
+34-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:29:13-80
+35            android:theme="@style/MuezzinWelcomeTheme" />
+35-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:30:13-55
+36        <activity android:name="com.example.namazreminder.activities.PlaceSelectionActivity" />
+36-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:32:9-96
+36-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:32:19-93
+37        <activity android:name="com.example.namazreminder.activities.preferences.PreferencesActivity" />
+37-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:34:9-105
+37-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:34:19-102
+38        <activity android:name="com.example.namazreminder.activities.preferences.ReminderPreferencesActivity" />
+38-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:36:9-113
+38-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:36:19-110
+39        <activity
+39-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:38:9-40:67
+40            android:name="com.example.namazreminder.activities.LicencesActivity"
+40-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:39:13-81
+41            android:label="@string/preferences_more_openSource" />
+41-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:40:13-64
+42
+43        <service
+43-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:42:9-44:40
+44            android:name="com.example.namazreminder.services.PrayerTimeReminderService"
+44-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:43:13-88
+45            android:exported="false" />
+45-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:44:13-37
+46        <service
+46-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:46:9-48:40
+47            android:name="com.example.namazreminder.services.PrayerTimesUpdaterService"
+47-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:47:13-88
+48            android:exported="false" />
+48-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:48:13-37
+49
+50        <receiver
+50-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:50:9-53:40
+51            android:name="com.example.namazreminder.broadcastreceivers.PrayerTimeReminderBroadcastReceiver"
+51-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:51:13-108
+52            android:enabled="true"
+52-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:52:13-35
+53            android:exported="false" />
+53-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:53:13-37
+54        <receiver
+54-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:55:9-63:20
+55            android:name="com.example.namazreminder.broadcastreceivers.BootCompletedBroadcastReceiver"
+55-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:56:13-103
+56            android:enabled="true"
+56-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:57:13-35
+57            android:exported="false" >
+57-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:58:13-37
+58            <intent-filter>
+58-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:60:13-62:29
+59                <action android:name="android.intent.action.BOOT_COMPLETED" />
+59-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:61:17-79
+59-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:61:25-76
+60            </intent-filter>
+61        </receiver>
+62        <receiver
+62-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:65:9-73:20
+63            android:name="com.example.namazreminder.widgetproviders.PrayerTimesHorizontalWidget"
+63-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:65:19-103
+64            android:label="@string/widgets_prayertimes_horizontal_label" >
+64-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:65:104-164
+65            <intent-filter>
+65-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:66:13-68:29
+66                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+66-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:67:17-84
+66-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:67:25-81
+67            </intent-filter>
+68
+69            <meta-data
+69-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:70:13-72:73
+70                android:name="android.appwidget.provider"
+70-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:71:17-58
+71                android:resource="@xml/widget_prayertimes_horizontal" />
+71-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:72:17-70
+72        </receiver>
+73        <receiver
+73-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:75:9-83:20
+74            android:name="com.example.namazreminder.widgetproviders.PrayerTimesVerticalWidget"
+74-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:75:19-101
+75            android:label="@string/widgets_prayertimes_vertical_label" >
+75-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:75:102-160
+76            <intent-filter>
+76-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:66:13-68:29
+77                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+77-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:67:17-84
+77-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:67:25-81
+78            </intent-filter>
+79
+80            <meta-data
+80-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:70:13-72:73
+81                android:name="android.appwidget.provider"
+81-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:71:17-58
+82                android:resource="@xml/widget_prayertimes_vertical" />
+82-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:72:17-70
+83        </receiver>
+84        <receiver
+84-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:85:9-93:20
+85            android:name="com.example.namazreminder.widgetproviders.PrayerTimesBigWidget"
+85-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:85:19-96
+86            android:label="@string/widgets_prayertimes_big_label" >
+86-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:85:97-150
+87            <intent-filter>
+87-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:66:13-68:29
+88                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+88-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:67:17-84
+88-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:67:25-81
+89            </intent-filter>
+90
+91            <meta-data
+91-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:70:13-72:73
+92                android:name="android.appwidget.provider"
+92-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:71:17-58
+93                android:resource="@xml/widget_prayertimes_big" />
+93-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:72:17-70
+94        </receiver>
+95
+96        <service
+96-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:95:9-97:40
+97            android:name="com.example.namazreminder.services.WidgetUpdaterService"
+97-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:96:13-83
+98            android:exported="false" />
+98-->C:\Users\arain\Music\Muezzin-master\app\src\main\AndroidManifest.xml:97:13-37
+99    </application>
+100
+101</manifest>

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arain\\Music\\Muezzin-master\\welcome-android\\build\\intermediates\\packaged_res\\debug\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,47",
+                        "endOffsets": "101,149"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,178",
+                        "endColumns": "50,47",
+                        "endOffsets": "173,221"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\arain\\.gradle\\caches\\transforms-2\\files-2.1\\3c7345978b86f8a5e1fb5ed081ddf744\\preference-1.1.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+com/example/namazreminder/models/WidgetType.java
+ com.example.namazreminder.models.WidgetType
+com/example/namazreminder/utilities/MuezzinAPI.java
+ com.example.namazreminder.utilities.MuezzinAPI
+ com.example.namazreminder.utilities.MuezzinAPI$1
+ com.example.namazreminder.utilities.MuezzinAPI$2
+ com.example.namazreminder.utilities.MuezzinAPI$3
+ com.example.namazreminder.utilities.MuezzinAPI$4
+ com.example.namazreminder.utilities.MuezzinAPI$OnCitiesDownloadedListener
+ com.example.namazreminder.utilities.MuezzinAPI$OnCountriesDownloadedListener
+ com.example.namazreminder.utilities.MuezzinAPI$OnDistrictsDownloadedListener
+ com.example.namazreminder.utilities.MuezzinAPI$OnPrayerTimesDownloadedListener
+com/example/namazreminder/models/PrayerTimesOfDay.java
+ com.example.namazreminder.models.PrayerTimesOfDay
+ com.example.namazreminder.models.PrayerTimesOfDay$1
+ com.example.namazreminder.models.PrayerTimesOfDay$InvalidPrayerTimesOfDayJsonException
+com/example/namazreminder/adapters/viewholders/CityViewHolder.java
+ com.example.namazreminder.adapters.viewholders.CityViewHolder
+com/example/namazreminder/models/District.java
+ com.example.namazreminder.models.District
+ com.example.namazreminder.models.District$1
+ com.example.namazreminder.models.District$InvalidDistrictJsonException
+com/example/namazreminder/activities/preferences/ReminderPreferencesActivity.java
+ com.example.namazreminder.activities.preferences.ReminderPreferencesActivity
+com/example/namazreminder/fragments/StatefulFragment.java
+ com.example.namazreminder.fragments.StatefulFragment
+com/example/namazreminder/activities/preferences/PreferencesActivity.java
+ com.example.namazreminder.activities.preferences.PreferencesActivity
+com/example/namazreminder/adapters/CountriesAdapter.java
+ com.example.namazreminder.adapters.CountriesAdapter
+com/example/namazreminder/models/PrayerTimeType.java
+ com.example.namazreminder.models.PrayerTimeType
+com/example/namazreminder/models/PrayerTimeReminder.java
+ com.example.namazreminder.models.PrayerTimeReminder
+com/example/namazreminder/utilities/LocaleUtils.java
+ com.example.namazreminder.utilities.LocaleUtils
+com/example/namazreminder/activities/PrayerTimesActivity.java
+ com.example.namazreminder.activities.PrayerTimesActivity
+com/example/namazreminder/services/PrayerTimeReminderService.java
+ com.example.namazreminder.services.PrayerTimeReminderService
+com/example/namazreminder/services/WidgetUpdaterService.java
+ com.example.namazreminder.services.WidgetUpdaterService
+ com.example.namazreminder.services.WidgetUpdaterService$1
+com/example/namazreminder/adapters/CitiesAdapter.java
+ com.example.namazreminder.adapters.CitiesAdapter
+com/example/namazreminder/database/Database.java
+ com.example.namazreminder.database.Database
+ com.example.namazreminder.database.Database$CityTable
+ com.example.namazreminder.database.Database$CountryTable
+ com.example.namazreminder.database.Database$DistrictTable
+ com.example.namazreminder.database.Database$PrayerTimesTable
+com/example/namazreminder/fragments/preferences/ReminderPreferencesFragment.java
+ com.example.namazreminder.fragments.preferences.ReminderPreferencesFragment
+com/example/namazreminder/utilities/Pref.java
+ com.example.namazreminder.utilities.Pref
+ com.example.namazreminder.utilities.Pref$Application
+ com.example.namazreminder.utilities.Pref$Places
+ com.example.namazreminder.utilities.Pref$Reminders
+com/example/namazreminder/fragments/CitySelectionFragment.java
+ com.example.namazreminder.fragments.CitySelectionFragment
+ com.example.namazreminder.fragments.CitySelectionFragment$OnCitySelectedListener
+com/example/namazreminder/BuildConfig.java
+ com.example.namazreminder.BuildConfig
+com/example/namazreminder/broadcastreceivers/BootCompletedBroadcastReceiver.java
+ com.example.namazreminder.broadcastreceivers.BootCompletedBroadcastReceiver
+com/example/namazreminder/fragments/CountrySelectionFragment.java
+ com.example.namazreminder.fragments.CountrySelectionFragment
+ com.example.namazreminder.fragments.CountrySelectionFragment$OnCountrySelectedListener
+com/example/namazreminder/broadcastreceivers/PrayerTimeReminderBroadcastReceiver.java
+ com.example.namazreminder.broadcastreceivers.PrayerTimeReminderBroadcastReceiver
+com/example/namazreminder/activities/PlaceSelectionActivity.java
+ com.example.namazreminder.activities.PlaceSelectionActivity
+com/example/namazreminder/adapters/DistrictsAdapter.java
+ com.example.namazreminder.adapters.DistrictsAdapter
+com/example/namazreminder/adapters/viewholders/DistrictViewHolder.java
+ com.example.namazreminder.adapters.viewholders.DistrictViewHolder
+com/example/namazreminder/widgetproviders/PrayerTimesHorizontalWidget.java
+ com.example.namazreminder.widgetproviders.PrayerTimesHorizontalWidget
+com/example/namazreminder/utilities/RemainingTime.java
+ com.example.namazreminder.utilities.RemainingTime
+com/example/namazreminder/fragments/DistrictSelectionFragment.java
+ com.example.namazreminder.fragments.DistrictSelectionFragment
+ com.example.namazreminder.fragments.DistrictSelectionFragment$OnDistrictSelectedListener
+com/example/namazreminder/models/Country.java
+ com.example.namazreminder.models.Country
+ com.example.namazreminder.models.Country$1
+ com.example.namazreminder.models.Country$InvalidCountryJsonException
+com/example/namazreminder/services/PrayerTimesUpdaterService.java
+ com.example.namazreminder.services.PrayerTimesUpdaterService
+com/example/namazreminder/widgetproviders/PrayerTimesVerticalWidget.java
+ com.example.namazreminder.widgetproviders.PrayerTimesVerticalWidget
+com/example/namazreminder/widgetproviders/PrayerTimesBigWidget.java
+ com.example.namazreminder.widgetproviders.PrayerTimesBigWidget
+com/example/namazreminder/fragments/NoPlacesFoundFragment.java
+ com.example.namazreminder.fragments.NoPlacesFoundFragment
+com/example/namazreminder/adapters/viewholders/CountryViewHolder.java
+ com.example.namazreminder.adapters.viewholders.CountryViewHolder
+com/example/namazreminder/fragments/PrayerTimesFragment.java
+ com.example.namazreminder.fragments.PrayerTimesFragment
+ com.example.namazreminder.fragments.PrayerTimesFragment$1
+com/example/namazreminder/fragments/preferences/PreferencesFragment.java
+ com.example.namazreminder.fragments.preferences.PreferencesFragment
+com/example/namazreminder/models/Place.java
+ com.example.namazreminder.models.Place
+com/example/namazreminder/activities/WelcomeActivity.java
+ com.example.namazreminder.activities.WelcomeActivity
+com/example/namazreminder/activities/LicencesActivity.java
+ com.example.namazreminder.activities.LicencesActivity
+com/example/namazreminder/activities/MuezzinActivity.java
+ com.example.namazreminder.activities.MuezzinActivity
+com/example/namazreminder/models/City.java
+ com.example.namazreminder.models.City
+ com.example.namazreminder.models.City$1
+ com.example.namazreminder.models.City$InvalidCityJsonException
+com/example/namazreminder/widgetproviders/PrayerTimesWidgetBase.java
+ com.example.namazreminder.widgetproviders.PrayerTimesWidgetBase
+ com.example.namazreminder.widgetproviders.PrayerTimesWidgetBase$1

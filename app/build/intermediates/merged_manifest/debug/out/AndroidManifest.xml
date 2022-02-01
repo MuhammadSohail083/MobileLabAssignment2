@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.namazreminder.test"
+    android:versionCode="6"
+    android:versionName="2.1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/applicationName"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/MuezzinTheme" >
+        <activity
+            android:name="com.example.namazreminder.activities.PrayerTimesActivity"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.namazreminder.activities.WelcomeActivity"
+            android:theme="@style/MuezzinWelcomeTheme" />
+        <activity android:name="com.example.namazreminder.activities.PlaceSelectionActivity" />
+        <activity android:name="com.example.namazreminder.activities.preferences.PreferencesActivity" />
+        <activity android:name="com.example.namazreminder.activities.preferences.ReminderPreferencesActivity" />
+        <activity
+            android:name="com.example.namazreminder.activities.LicencesActivity"
+            android:label="@string/preferences_more_openSource" />
+
+        <service
+            android:name="com.example.namazreminder.services.PrayerTimeReminderService"
+            android:exported="false" />
+        <service
+            android:name="com.example.namazreminder.services.PrayerTimesUpdaterService"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.example.namazreminder.broadcastreceivers.PrayerTimeReminderBroadcastReceiver"
+            android:enabled="true"
+            android:exported="false" />
+        <receiver
+            android:name="com.example.namazreminder.broadcastreceivers.BootCompletedBroadcastReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.example.namazreminder.widgetproviders.PrayerTimesHorizontalWidget"
+            android:label="@string/widgets_prayertimes_horizontal_label" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_prayertimes_horizontal" />
+        </receiver>
+        <receiver
+            android:name="com.example.namazreminder.widgetproviders.PrayerTimesVerticalWidget"
+            android:label="@string/widgets_prayertimes_vertical_label" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_prayertimes_vertical" />
+        </receiver>
+        <receiver
+            android:name="com.example.namazreminder.widgetproviders.PrayerTimesBigWidget"
+            android:label="@string/widgets_prayertimes_big_label" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_prayertimes_big" />
+        </receiver>
+
+        <service
+            android:name="com.example.namazreminder.services.WidgetUpdaterService"
+            android:exported="false" />
+    </application>
+
+</manifest>

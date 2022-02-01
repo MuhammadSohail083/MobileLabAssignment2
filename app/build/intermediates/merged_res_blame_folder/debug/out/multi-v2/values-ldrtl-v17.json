@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arain\\Music\\Muezzin-master\\welcome-android\\build\\intermediates\\packaged_res\\debug\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,90,296",
+                        "endLines": "2,6,10",
+                        "endColumns": "34,12,12",
+                        "endOffsets": "85,291,498"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arain\\Music\\Muezzin-master\\welcome-android\\build\\intermediates\\packaged_res\\debug\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,6,9,12,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,281,424,577,714",
+                        "endLines": "5,8,11,14,17",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "276,419,572,709,856"
+                    }
+                }
+            ]
+        }
+    ]
+}

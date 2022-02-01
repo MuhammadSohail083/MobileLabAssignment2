@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mosque.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap_widgets_prayertimes_horizontal_preview.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap\\widgets_prayertimes_horizontal_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_prayertimes_big.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\widget_prayertimes_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_state_loading.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\state_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preferences.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\activity_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_basic.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout-land\\fragment_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap_widgets_prayertimes_big_preview.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap\\widgets_prayertimes_big_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reminderpreferences.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\activity_reminderpreferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_mosque.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable-v21\\ic_mosque.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_county.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\item_county.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_prayertimes.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\content_prayertimes.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_prayertimes_vertical.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\xml\\widget_prayertimes_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_prayertimes.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\fragment_prayertimes.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prayertimes.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\activity_prayertimes.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nodata.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_nodata.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_state_nodata.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\state_nodata.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_noplacesfound.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\fragment_noplacesfound.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_districtselection.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\fragment_districtselection.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_prayertimes_horizontal.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\widget_prayertimes_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_prayertimereminder.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\xml\\preferences_prayertimereminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tryagain.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_tryagain.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap_widgets_prayertimes_vertical_preview.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap\\widgets_prayertimes_vertical_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cityselection.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\fragment_cityselection.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_countryselection.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\fragment_countryselection.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_prayertimes_vertical.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\widget_prayertimes_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_licences.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\activity_licences.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_content_prayertimes.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout-land\\content_prayertimes.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_placeselection.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\activity_placeselection.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_prayertimes_big.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\xml\\widget_prayertimes_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_place.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_place_white.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_place_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_state_error.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\state_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_district.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\item_district.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_city.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\item_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_settings.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_basic.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\layout\\fragment_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_prayertimes_horizontal.xml.flat",
+        "source": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\src\\main\\res\\xml\\widget_prayertimes_horizontal.xml"
+    }
+]

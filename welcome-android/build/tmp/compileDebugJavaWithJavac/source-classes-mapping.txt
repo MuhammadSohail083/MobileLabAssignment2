@@ -1,0 +1,81 @@
+com/stephentuso/welcome/ui/fragments/ParallaxWelcomeFragment.java
+ com.stephentuso.welcome.ui.fragments.ParallaxWelcomeFragment
+com/stephentuso/welcome/WelcomeFailedEvent.java
+ com.stephentuso.welcome.WelcomeFailedEvent
+com/stephentuso/welcome/ui/WelcomeActivity.java
+ com.stephentuso.welcome.ui.WelcomeActivity
+ com.stephentuso.welcome.ui.WelcomeActivity$1
+ com.stephentuso.welcome.ui.WelcomeActivity$2
+ com.stephentuso.welcome.ui.WelcomeActivity$3
+ com.stephentuso.welcome.ui.WelcomeActivity$4
+ com.stephentuso.welcome.ui.WelcomeActivity$5
+ com.stephentuso.welcome.ui.WelcomeActivity$WelcomeFragmentPagerAdapter
+com/stephentuso/welcome/ui/WelcomeScreenViewWrapper.java
+ com.stephentuso.welcome.ui.WelcomeScreenViewWrapper
+ com.stephentuso.welcome.ui.WelcomeScreenViewWrapper$1
+ com.stephentuso.welcome.ui.WelcomeScreenViewWrapper$2
+com/stephentuso/welcome/ui/WelcomeScreenPage.java
+ com.stephentuso.welcome.ui.WelcomeScreenPage
+ com.stephentuso.welcome.ui.WelcomeScreenPage$OnChangeListener
+com/stephentuso/welcome/ui/SkipButton.java
+ com.stephentuso.welcome.ui.SkipButton
+com/stephentuso/welcome/ui/WelcomeScreenItemList.java
+ com.stephentuso.welcome.ui.WelcomeScreenItemList
+com/stephentuso/welcome/WelcomeCompletedEvent.java
+ com.stephentuso.welcome.WelcomeCompletedEvent
+com/stephentuso/welcome/util/WelcomeScreenConfiguration.java
+ com.stephentuso.welcome.util.WelcomeScreenConfiguration
+ com.stephentuso.welcome.util.WelcomeScreenConfiguration$1
+ com.stephentuso.welcome.util.WelcomeScreenConfiguration$Parameters
+ com.stephentuso.welcome.util.WelcomeScreenConfiguration$Theme
+com/stephentuso/welcome/util/ColorHelper.java
+ com.stephentuso.welcome.util.ColorHelper
+com/stephentuso/welcome/ui/BackgroundColor.java
+ com.stephentuso.welcome.ui.BackgroundColor
+com/stephentuso/welcome/ui/fragments/PreferenceWelcomeFragment.java
+ com.stephentuso.welcome.ui.fragments.PreferenceWelcomeFragment
+com/stephentuso/welcome/ui/view/WelcomeScreenBackgroundView.java
+ com.stephentuso.welcome.ui.view.WelcomeScreenBackgroundView
+com/stephentuso/welcome/ui/fragments/TitleFragment.java
+ com.stephentuso.welcome.ui.fragments.TitleFragment
+com/stephentuso/welcome/WelcomeScreenHelper.java
+ com.stephentuso.welcome.WelcomeScreenHelper
+com/stephentuso/welcome/ui/PreviousButton.java
+ com.stephentuso.welcome.ui.PreviousButton
+com/stephentuso/welcome/WelcomeScreenBuilder.java
+ com.stephentuso.welcome.WelcomeScreenBuilder
+ com.stephentuso.welcome.WelcomeScreenBuilder$1
+ com.stephentuso.welcome.WelcomeScreenBuilder$2
+ com.stephentuso.welcome.WelcomeScreenBuilder$3
+ com.stephentuso.welcome.WelcomeScreenBuilder$4
+com/stephentuso/welcome/ui/WelcomeScreenPageList.java
+ com.stephentuso.welcome.ui.WelcomeScreenPageList
+com/stephentuso/welcome/ui/view/WelcomeScreenViewPagerIndicator.java
+ com.stephentuso.welcome.ui.view.WelcomeScreenViewPagerIndicator
+com/stephentuso/welcome/ui/NextButton.java
+ com.stephentuso.welcome.ui.NextButton
+com/stephentuso/welcome/ui/view/SimpleViewPagerIndicator.java
+ com.stephentuso.welcome.ui.view.SimpleViewPagerIndicator
+com/stephentuso/welcome/ui/OnWelcomeScreenPageChangeListener.java
+ com.stephentuso.welcome.ui.OnWelcomeScreenPageChangeListener
+com/stephentuso/welcome/util/SharedPreferencesHelper.java
+ com.stephentuso.welcome.util.SharedPreferencesHelper
+com/stephentuso/welcome/util/WelcomeUtils.java
+ com.stephentuso.welcome.util.WelcomeUtils
+com/stephentuso/welcome/ui/fragments/FullScreenParallaxWelcomeFragment.java
+ com.stephentuso.welcome.ui.fragments.FullScreenParallaxWelcomeFragment
+com/stephentuso/welcome/BuildConfig.java
+ com.stephentuso.welcome.BuildConfig
+com/stephentuso/welcome/ui/fragments/BasicWelcomeFragment.java
+ com.stephentuso.welcome.ui.fragments.BasicWelcomeFragment
+com/stephentuso/welcome/ui/view/ColorChangingBackgroundView.java
+ com.stephentuso.welcome.ui.view.ColorChangingBackgroundView
+com/stephentuso/welcome/ui/DoneButton.java
+ com.stephentuso.welcome.ui.DoneButton
+com/stephentuso/welcome/ui/WelcomeScreenFinisher.java
+ com.stephentuso.welcome.ui.WelcomeScreenFinisher
+com/stephentuso/welcome/ui/WelcomeScreenHider.java
+ com.stephentuso.welcome.ui.WelcomeScreenHider
+ com.stephentuso.welcome.ui.WelcomeScreenHider$OnViewHiddenListener
+com/stephentuso/welcome/ui/WelcomeFragmentHolder.java
+ com.stephentuso.welcome.ui.WelcomeFragmentHolder

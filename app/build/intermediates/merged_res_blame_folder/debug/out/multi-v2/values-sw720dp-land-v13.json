@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\arain\\Music\\Muezzin-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arain\\Music\\Muezzin-master\\welcome-android\\build\\intermediates\\packaged_res\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,106,161",
+                        "endColumns": "50,54,47",
+                        "endOffsets": "101,156,204"
+                    }
+                }
+            ]
+        }
+    ]
+}

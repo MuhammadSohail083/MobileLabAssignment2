@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res"/><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\build\generated\res\rs\debug"/><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res"><file name="fade_in" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="none" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\anim\none.xml" qualifiers="" type="anim"/><file name="button_borderless_background" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable\button_borderless_background.xml" qualifiers="" type="drawable"/><file name="button_borderless_background_theme_light" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable\button_borderless_background_theme_light.xml" qualifiers="" type="drawable"/><file name="ic_chevron_left_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-hdpi\ic_chevron_left_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_chevron_right_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-hdpi\ic_chevron_right_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_chevron_left_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-mdpi\ic_chevron_left_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_chevron_right_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-mdpi\ic_chevron_right_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="button_borderless_background" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-v21\button_borderless_background.xml" qualifiers="v21" type="drawable"/><file name="button_borderless_background_theme_light" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-v21\button_borderless_background_theme_light.xml" qualifiers="v21" type="drawable"/><file name="ic_chevron_left_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-xhdpi\ic_chevron_left_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_chevron_right_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-xhdpi\ic_chevron_right_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_chevron_left_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-xxhdpi\ic_chevron_left_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_chevron_right_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-xxhdpi\ic_chevron_right_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_chevron_left_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-xxxhdpi\ic_chevron_left_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_chevron_right_white_24dp" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\drawable-xxxhdpi\ic_chevron_right_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="activity_welcome" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout\activity_welcome.xml" qualifiers="" type="layout"/><file name="fragment_basic" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout\fragment_basic.xml" qualifiers="" type="layout"/><file name="fragment_parallax" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout\fragment_parallax.xml" qualifiers="" type="layout"/><file name="fragment_parallax_full_screen" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout\fragment_parallax_full_screen.xml" qualifiers="" type="layout"/><file name="fragment_title" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout\fragment_title.xml" qualifiers="" type="layout"/><file name="fragment_basic" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout-land\fragment_basic.xml" qualifiers="land" type="layout"/><file name="fragment_parallax" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout-land\fragment_parallax.xml" qualifiers="land" type="layout"/><file name="fragment_title" path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\layout-land\fragment_title.xml" qualifiers="land" type="layout"/><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SimpleViewPagerIndicator">
+       <attr format="color" name="currentPageColor"/>
+       <attr format="color" name="indicatorColor"/>
+       <attr format="boolean" name="animated"/>
+   </declare-styleable><declare-styleable name="Theme">
+        <attr format="reference" name="welcomeButtonBackground"/>
+        <attr format="reference" name="welcomeButtonNextStyle"/>
+        <attr format="reference" name="welcomeButtonPrevStyle"/>
+        <attr format="reference" name="welcomeButtonSkipStyle"/>
+        <attr format="reference" name="welcomeButtonDoneStyle"/>
+        <attr format="string" name="welcomeButtonDoneText"/>
+        <attr format="string" name="welcomeButtonSkipText"/>
+        <attr format="reference" name="welcomeIndicatorStyle"/>
+        <attr format="reference" name="welcomeDividerStyle"/>
+        <attr format="reference" name="welcomeNormalTextStyle"/>
+        <attr format="reference" name="welcomeLargeTextStyle"/>
+        <attr format="reference" name="welcomeTitleTextStyle"/>
+        <attr format="boolean" name="welcomeLayoutFitsSystemWindows"/>
+    </declare-styleable></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values\bools.xml" qualifiers=""><bool name="isRtl">false</bool></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values\colors.xml" qualifiers=""><color name="text_primary_theme_dark">#fff</color><color name="text_primary_theme_light">#000</color><color name="divider_color_theme_dark">#33ffffff</color><color name="divider_color_theme_light">#22000000</color><color name="default_background_color">#1E88E5</color><color name="indicator_color_primary_theme_dark">#99ffffff</color><color name="indicator_color_secondary_theme_dark">#22000000</color><color name="indicator_color_primary_theme_light">#99000000</color><color name="indicator_color_secondary_theme_light">#22000000</color><color name="button_background_theme_dark">#55ffffff</color><color name="button_background_theme_light">#33000000</color><color name="overscroll_color_theme_dark">#55ffffff</color><color name="overscroll_color_theme_light">#33000000</color><color name="transparent">#00000000</color><color name="white">#FFFFFF</color></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="text_horizontal_margin">32dp</dimen><dimen name="title_bottom_margin">16dp</dimen><dimen name="text_top_padding">16dp</dimen><dimen name="text_bottom_padding">8dp</dimen><dimen name="flat_button_vertical_margin">4dp</dimen><dimen name="flat_button_horizontal_margin">8dp</dimen><dimen name="title_text_size">26sp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values\strings.xml" qualifiers=""><string name="skip">Skip</string><string name="done">Done</string><string name="hello_blank_fragment">Hello blank fragment</string></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values\styles.xml" qualifiers=""><style name="WelcomeScreenBaseTheme" parent="Theme.AppCompat.NoActionBar">
+
+    </style><style name="WelcomeScreenTheme" parent="WelcomeScreenBaseTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="welcomeLayoutFitsSystemWindows">true</item>
+        <item name="android:textColorPrimary">@color/text_primary_theme_dark</item>
+        <item name="android:textColorSecondary">@color/text_primary_theme_dark</item>
+
+        <item name="welcomeButtonBackground">@drawable/button_borderless_background</item>
+        <item name="welcomeButtonSkipStyle">@style/WelcomeScreenButton.Skip</item>
+        <item name="welcomeButtonNextStyle">@style/WelcomeScreenButton.Next</item>
+        <item name="welcomeButtonPrevStyle">@style/WelcomeScreenButton.Prev</item>
+        <item name="welcomeButtonDoneStyle">@style/WelcomeScreenButton.Done</item>
+        <item name="welcomeButtonDoneText">@string/done</item>
+        <item name="welcomeButtonSkipText">@string/skip</item>
+
+        <item name="welcomeDividerStyle">@style/WelcomeScreenDivider</item>
+        <item name="welcomeIndicatorStyle">@style/WelcomeScreenPageIndicator</item>
+
+        <item name="welcomeNormalTextStyle">@style/WelcomeScreenText</item>
+        <item name="welcomeLargeTextStyle">@style/WelcomeScreenText.Large</item>
+        <item name="welcomeTitleTextStyle">@style/WelcomeScreenText.Title.Centered</item>
+
+        <item name="windowActionBarOverlay">true</item>
+        <item name="actionBarStyle">@style/TransparentActionBar</item>
+
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="background">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style><style name="WelcomeScreenTheme.Light">
+        <item name="android:textColorPrimary">@color/text_primary_theme_light</item>
+        <item name="android:textColorSecondary">@color/text_primary_theme_light</item>
+        <item name="welcomeIndicatorStyle">@style/WelcomeScreenPageIndicator.Light</item>
+        <item name="welcomeButtonBackground">@drawable/button_borderless_background_theme_light</item>
+    </style><style name="WelcomeScreenTheme.SolidNavigation">
+        
+    </style><style name="WelcomeScreenTheme.Light.SolidNavigation">
+        
+    </style><style name="WelcomeScreenTheme.SolidNavigation.UnderStatusBar">
+        
+    </style><style name="WelcomeScreenTheme.Light.SolidNavigation.UnderStatusBar">
+        
+    </style><style name="WelcomeScreenText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:layout_marginRight">@dimen/text_horizontal_margin</item>
+        <item name="android:layout_marginLeft">@dimen/text_horizontal_margin</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style><style name="WelcomeScreenText.Large">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:layout_marginBottom">@dimen/title_bottom_margin</item>
+    </style><style name="WelcomeScreenText.Title" parent="WelcomeScreenText.Large">
+        <item name="android:textSize">@dimen/title_text_size</item>
+    </style><style name="WelcomeScreenText.Centered">
+        <item name="android:gravity">center_horizontal</item>
+    </style><style name="WelcomeScreenText.Large.Centered">
+        <item name="android:gravity">center_horizontal</item>
+    </style><style name="WelcomeScreenText.Title.Centered">
+        <item name="android:gravity">center_horizontal</item>
+    </style><style name="WelcomeScreenButton" parent="Widget.AppCompat.Button">
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginLeft">@dimen/flat_button_horizontal_margin</item>
+        <item name="android:layout_marginTop">@dimen/flat_button_vertical_margin</item>
+        <item name="android:layout_marginRight">@dimen/flat_button_horizontal_margin</item>
+        <item name="android:layout_marginBottom">@dimen/flat_button_vertical_margin</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:background">?attr/welcomeButtonBackground</item>
+        <item name="android:padding">4dp</item>
+    </style><style name="WelcomeScreenButton.Skip">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="WelcomeScreenButton.Done">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style><style name="WelcomeScreenButton.Next">
+        <item name="android:src">@drawable/ic_chevron_right_white_24dp</item>
+        <item name="android:tint">?android:attr/textColorPrimary</item>
+    </style><style name="WelcomeScreenButton.Prev">
+        <item name="android:src">@drawable/ic_chevron_left_white_24dp</item>
+        <item name="android:tint">?android:attr/textColorPrimary</item>
+    </style><style name="TextContainer">
+        <item name="android:paddingTop">@dimen/text_top_padding</item>
+        <item name="android:paddingBottom">@dimen/text_bottom_padding</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:gravity">center</item>
+    </style><style name="WelcomeScreenPageIndicator">
+        <item name="indicatorColor">@color/indicator_color_secondary_theme_dark</item>
+        <item name="currentPageColor">@color/indicator_color_primary_theme_dark</item>
+        <item name="animated">false</item>
+    </style><style name="WelcomeScreenPageIndicator.Light">
+        <item name="indicatorColor">@color/indicator_color_secondary_theme_light</item>
+        <item name="currentPageColor">@color/indicator_color_primary_theme_light</item>
+    </style><style name="WelcomeScreenDivider">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_height">1dp</item>
+    </style><style name="WelcomeScreenDivider.Light">
+        <item name="android:background">@color/divider_color_theme_light</item>
+    </style><style name="WelcomeScreenDivider.Dark">
+        <item name="android:background">@color/divider_color_theme_dark</item>
+    </style><style name="TransparentActionBar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/transparent</item>
+    </style></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-land\dimens.xml" qualifiers="land"><dimen name="text_top_padding">0dp</dimen><dimen name="text_bottom_padding">0dp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-ldrtl\bools.xml" qualifiers="ldrtl-v17"><bool name="isRtl">true</bool></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-ldrtl\styles.xml" qualifiers="ldrtl-v17"><style name="WelcomeScreenButton.Next">
+        <item name="android:src">@drawable/ic_chevron_left_white_24dp</item>
+        <item name="android:tint">?android:attr/textColorPrimary</item>
+    </style><style name="WelcomeScreenButton.Prev">
+        <item name="android:src">@drawable/ic_chevron_right_white_24dp</item>
+        <item name="android:tint">?android:attr/textColorPrimary</item>
+    </style></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw360dp\dimens.xml" qualifiers="sw360dp-v13"><dimen name="text_top_padding">24dp</dimen><dimen name="text_bottom_padding">24dp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw360dp-land\dimens.xml" qualifiers="sw360dp-land-v13"><dimen name="text_top_padding">0dp</dimen><dimen name="text_bottom_padding">0dp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw430dp\dimens.xml" qualifiers="sw430dp-v13"><dimen name="text_horizontal_margin">64dp</dimen><dimen name="text_top_padding">24dp</dimen><dimen name="text_bottom_padding">36dp</dimen><dimen name="title_text_size">28sp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw430dp-land\dimens.xml" qualifiers="sw430dp-land-v13"><dimen name="text_top_padding">0dp</dimen><dimen name="text_bottom_padding">0dp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"><dimen name="text_horizontal_margin">140dp</dimen><dimen name="text_top_padding">50dp</dimen><dimen name="text_bottom_padding">70dp</dimen><dimen name="title_text_size">32sp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw600dp-land\dimens.xml" qualifiers="sw600dp-land-v13"><dimen name="text_horizontal_margin">100dp</dimen><dimen name="text_top_padding">36dp</dimen><dimen name="text_bottom_padding">36dp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw720dp\dimens.xml" qualifiers="sw720dp-v13"><dimen name="text_horizontal_margin">180dp</dimen><dimen name="text_top_padding">80dp</dimen><dimen name="text_bottom_padding">130dp</dimen><dimen name="title_text_size">34sp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="text_horizontal_margin">140dp</dimen><dimen name="text_top_padding">36dp</dimen><dimen name="text_bottom_padding">36dp</dimen></file><file path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\main\res\values-v19\styles.xml" qualifiers="v19"><style name="WelcomeScreenBaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style><style name="WelcomeScreenTheme.SolidNavigation">
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style><style name="WelcomeScreenTheme.Light.SolidNavigation">
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style><style name="WelcomeScreenTheme.SolidNavigation.UnderStatusBar">
+        <item name="welcomeLayoutFitsSystemWindows">false</item>
+    </style><style name="WelcomeScreenTheme.Light.SolidNavigation.UnderStatusBar">
+        <item name="welcomeLayoutFitsSystemWindows">false</item>
+    </style></file></source><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\build\generated\res\rs\debug"/><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\arain\Music\Muezzin-master\welcome-android\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SimpleViewPagerIndicator">
+       <attr format="color" name="currentPageColor"/>
+       <attr format="color" name="indicatorColor"/>
+       <attr format="boolean" name="animated"/>
+   </declare-styleable><declare-styleable name="Theme">
+        <attr format="reference" name="welcomeButtonBackground"/>
+        <attr format="reference" name="welcomeButtonNextStyle"/>
+        <attr format="reference" name="welcomeButtonPrevStyle"/>
+        <attr format="reference" name="welcomeButtonSkipStyle"/>
+        <attr format="reference" name="welcomeButtonDoneStyle"/>
+        <attr format="string" name="welcomeButtonDoneText"/>
+        <attr format="string" name="welcomeButtonSkipText"/>
+        <attr format="reference" name="welcomeIndicatorStyle"/>
+        <attr format="reference" name="welcomeDividerStyle"/>
+        <attr format="reference" name="welcomeNormalTextStyle"/>
+        <attr format="reference" name="welcomeLargeTextStyle"/>
+        <attr format="reference" name="welcomeTitleTextStyle"/>
+        <attr format="boolean" name="welcomeLayoutFitsSystemWindows"/>
+    </declare-styleable></configuration></mergedItems></merger>
